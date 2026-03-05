@@ -16,4 +16,5 @@ deployment "default" {
     az_redundancy = "single-az"
     project_name = null
   }
+  destroy = true
 }
