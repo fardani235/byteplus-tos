@@ -1,11 +1,11 @@
-# This file is maintained automatically by "terraform init".
+# This file is maintained automatically by "terraform stacks providers-lock".
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/byteplus-sdk/byteplus" {
-  version     = "0.0.23"
-  constraints = "~> 0.0.22"
+  version = "0.0.23"
   hashes = [
     "h1:Jqrvu3lOsoXhaPd57V5Jn4bmtDZPbnlyuBIqX51y1mc=",
+    "h1:W0Z8RLc9XxNpxNM8KjpnudHTXjxFdWjaWjSI7dkRdKE=",
     "zh:0eac375f506e26a8b53c0e14a89efe8ebe4a8d93944bced1d3411c1ac0a47a0c",
     "zh:0fbba2935eec02c974ced307186f613a23936f58afbd08ce2434282263f54e17",
     "zh:15990cb9bbcd6b385c6a7c76c05f48cf00b0b219e9308776708b5afda7f68d96",
